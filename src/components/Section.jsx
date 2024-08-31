@@ -1,4 +1,4 @@
-import SectionSvg from '../assets/svg/sectionSvg'
+import SectionSvg from "../assets/svg/SectionSvg";
 
 const Section = ({
     className,
@@ -35,4 +35,4 @@ const Section = ({
   )
 }
 
-export default Section
+export default Section;
